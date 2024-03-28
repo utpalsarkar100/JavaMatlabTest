@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"JavaTestCall","l":"JavaTestCallMCRFactory"},{"p":"JavaTestCall","l":"TestMatClass"},{"p":"JavaTestCall","l":"TestMatClassRemote"}];updateSearchResults();
