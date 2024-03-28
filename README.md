@@ -5,7 +5,7 @@ Call matlab build .jar(function) from JAVA code
 # Windows Run
 JAVA 22 :
 
-javac -classpath "C:\Program Files\MATLAB\R2023a\toolbox\javabuilder\jar\javabuilder.jar";.\JavaTestCall.jar javaTest_CallSample.java\n
+javac -classpath "C:\Program Files\MATLAB\R2023a\toolbox\javabuilder\jar\javabuilder.jar";.\JavaTestCall.jar javaTest_CallSample.java
 java -classpath .;"C:\Program Files\MATLAB\R2023a\toolbox\javabuilder\jar\javabuilder.jar";.\JavaTestCall.jar javaTest_CallSample
 
 JAVA 17 :
